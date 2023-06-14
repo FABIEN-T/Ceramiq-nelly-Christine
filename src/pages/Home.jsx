@@ -1,7 +1,8 @@
 // import Banner from '../../common/Banner'
 // import HomeCard from '../../components/HomeCard'
 import Header from '../components/Header'
-import Collapse from '../components/Collapse'
+import Footer from '../components/Footer'
+// import Collapse from '../components/Collapse'
 
 export default function Home() {
   // let finalJson=JSON.parse(json);
@@ -69,11 +70,10 @@ export default function Home() {
               précédentes.
             </p>
             <p>Chaque pièce est unique.</p>
-            <h3>Du chaos naît l'harmonie</h3>
           </article>
 
           {/* <ul>
-          {lodgingData.map(({ id, title, cover }) => (
+          {workData.map(({ id, title, cover }) => (
             <HomeCard key={id} id={id} title={title} cover={cover} />
           ))}
         </ul> */}
@@ -85,7 +85,9 @@ export default function Home() {
         ))}
         </section> */}
         </section>
+        <h3>Du chaos naît l'harmonie </h3>
       </main>
+      <Footer />
     </>
   )
 }

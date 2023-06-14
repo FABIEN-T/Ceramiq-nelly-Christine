@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Chevron from '../assets/chevronUp.svg'
 
-function Collapse({ title, content, type }) {
+export default function Collapse({ title, content, type }) {
   const [isOpen, setIsOpen] = useState(false)
 
   return isOpen ? (
@@ -31,5 +31,3 @@ function Collapse({ title, content, type }) {
     </article>
   )
 }
-
-export default Collapse

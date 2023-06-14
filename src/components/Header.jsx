@@ -1,20 +1,20 @@
 import Navbar from './Navbar'
 // import LogoRed from '../../assets/LOGO_Kasa.svg'
 
-function Header() {
+export default function Header() {
   return (
     <header className="header">
-          {/* <h1>            
+      <div className="contentHeader">
+        {/* <h1>            
         <img
           src={LogoRed}
           alt="Logo de l'entreprise Kasa"
           className="headerLogo"
         />
       </h1> */}
-      <h1>Christine, Nelly, céramistes</h1>
-      <Navbar />
+        <h1>Christine, Nelly, céramistes</h1>
+        <Navbar />
+      </div>
     </header>
   )
 }
-
-export default Header

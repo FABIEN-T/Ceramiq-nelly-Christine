@@ -3,15 +3,28 @@ main {
   flex-direction: column;
   flex: 1;
   margin: 0 auto 0;
-  width: 85%;
+  padding-bottom: 64px;
+  width: $widthPage;
+  border-right: 3px solid $primary;
+  border-left: 3px solid $primary;
+
+  section {
+    margin: 0 auto;
+    width: 80%;
+    // background-color: aquamarine;
+  }
 
   h2 {
     margin: 0.83em auto 0em;
   }
 
   h3 {
-    margin: 1em 0 -0.3em;
+    margin: 1em auto -0.3em;
   }
+
+  // .h3Center {
+  //   margin: 1em auto 1em;
+  // }
 
   p {
     font-size: 1.2em;

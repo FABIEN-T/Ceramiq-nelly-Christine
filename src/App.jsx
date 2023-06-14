@@ -8,7 +8,7 @@ import Nelly from './pages/Nelly'
 import Christine from './pages/Christine'
 // import Artist from './pages/Artist'
 // import About from './pages/About'
-// import LodgingSheet from './pages/LodgingSheet'
+import WorkSheet from './pages/WorkSheet'
 // import Error from './pages/Error'
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/nelly" element={<Nelly />} />
           <Route path="/christine" element={<Christine />} />
-          {/* <Route path="/lodging-sheet/:id" element={<LodgingSheet />} /> */}
+          <Route path="/work-sheet/:id" element={<WorkSheet />} />
           {/* <Route path="/*" element={<Error />} /> */}
         </Routes>
         {/* <Footer /> */}

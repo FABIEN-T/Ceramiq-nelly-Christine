@@ -1,38 +1,38 @@
-.mainHome {
-    margin-top: 59px;
-    .homeGallery {
-      margin: 43px auto 0;
-      padding: 3.89% 3.52% 0.42%;
-      border-radius: 25px;
-      background-color: $backgroundColor;
-      // width: $widthPage;
-      max-width: 1280px;
-      box-sizing: border-box;
-  
-      ul {
-        list-style-type: none;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        margin: 0 auto;
-        padding: 0;
-        box-sizing: border-box;
-      }
-    }
-  
-    @include forMobile {
-      margin-top: 16px;
-      .homeGallery {
-        margin: 0 auto;
-        padding: 0px;
-        background-color: transparent;
-      }
-    }
+// .mainHome {
+//     margin-top: 59px;
+.homeGallery {
+  margin: 43px auto 0;
+  padding: 3.89% 3.52% 0.42%;
+  border-radius: 25px;
+  background-color: $backgroundColor;
+  // width: $widthPage;
+  max-width: 1280px;
+  box-sizing: border-box;
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
   }
-  
-  @include forMobile {
-    .bannerHomeMobile {
-      height: 111px;
-      border-radius: 10px;
-    }
-  }
+}
+
+// @include forMobile {
+//   margin-top: 16px;
+//   .homeGallery {
+//     margin: 0 auto;
+//     padding: 0px;
+//     background-color: transparent;
+//   }
+// }
+// }
+
+// @include forMobile {
+//   .bannerHomeMobile {
+//     height: 111px;
+//     border-radius: 10px;
+//   }
+// }

@@ -9,15 +9,15 @@
 @import '../components/header';
 @import '../components/navbar';
 
-// @import '../components/Footer/footer';
-// @import '../components/HomeCard/homeCard';
+@import '../components/footer';
+@import '../components/homeCard';
 // @import '../components/Slideshow/slideshow';
 // @import '../components/Tags/tags';
 // @import '../components/Rating/rating';
 
-@import '../pages/main';
-// @import '../pages/homeGallery';
-// @import '../pages/LodgingSheet/lodgingSheet';
+@import '../pages/pages';
+@import '../pages/homeGallery';
+@import '../pages/worksSheet';
 // @import '../pages/About/about';
 // @import '../pages/Error/error';
 
@@ -36,7 +36,7 @@ body {
     flex-direction: column;
     margin: 0 auto;
     // padding: 0 5%;
-    width: $widthPage;
+    width: 100%;
     height: 100vh;
     // background-color: rgb(184, 251, 251);
   }

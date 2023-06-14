@@ -1,20 +1,92 @@
 [
     {
-        "title": [
-            "Nelly Martinelly"
-        ],
-        "para": [
-            "Nelly  Martinelli est venue à la céramique après un parcours de vie dans l’animation sociale. En plus des techniques classiques, elle utilise la méthode du papier porcelaine, mélange de porcelaine et de cellulose, qui permet d’obtenir des pièces d’une extrême finesse. Elle exposait au Salon Habitat & vie d’Épinal.",
-            "Devons-nous prouver que nous avons testé l'ensemble de l'application ou seulement la bibliothèque que nous avons convertie ?"
+        "id": "ns1",
+        "title": "nom-série1",
+        "cover": "src/assets/nelly_serie_1/ns1Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
         ]
     },
     {
-        "title": [
-            "Other"
-        ],
-        "para": [
-            "Après 25 ans dans le domaine de l’action culturelle, je me reconvertis dans le développement web.",
-            "Téléchargez votre attestation de réussite en attendant que votre dossier passe devant le jury."
+        "id": "ns2",
+        "title": "nom-série2",
+        "cover": "src/assets/nelly_serie_2/ns2Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "ns3",
+        "title": "nom-série3",
+        "cover": "src/assets/nelly_serie_3/ns3Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "ns4",
+        "title": "nom-série4",
+        "cover": "src/assets/nelly_serie_4/ns4Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "ns5",
+        "title": "nom-série5",
+        "cover": "src/assets/nelly_serie_5/ns5Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "ns6",
+        "title": "nom-série6",
+        "cover": "src/assets/nelly_serie_6/ns6Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "ns7",
+        "title": "nom-série7",
+        "cover": "src/assets/nelly_serie_7/ns7Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "ns8",
+        "title": "nom-série8",
+        "cover": "src/assets/nelly_serie_8/ns8Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "ns9",
+        "title": "nom-série9",
+        "cover": "src/assets/nelly_serie_9/ns9Cover.jpg",
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
         ]
     }
 ]
