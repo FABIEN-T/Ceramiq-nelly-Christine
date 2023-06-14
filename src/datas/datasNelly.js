@@ -1,0 +1,28 @@
+export const datasNelly = [
+  'Nelly Martinelly',
+  [
+    'Nelly  Martinelli est venue à la céramique après un parcours de vie dans l’animation sociale. En plus des techniques classiques, elle utilise la méthode du papier porcelaine, mélange de porcelaine et de cellulose, qui permet d’obtenir des pièces d’une extrême finesse. Elle exposait au Salon Habitat & vie d’Épinal.',
+    "Devons-nous prouver que nous avons testé l'ensemble de l'application ou seulement la bibliothèque que nous avons convertie ?",
+  ],
+
+  'Other',
+  [
+    'Après 25 ans dans le domaine de l’action culturelle, je me reconvertis dans le développement web.',
+    'Téléchargez votre attestation de réussite en attendant que votre dossier passe devant le jury.',
+  ],
+]
+
+// [
+//     'Nelly Martinelly',
+//     [
+//       'Nelly  Martinelli est venue à la céramique après un parcours de vie dans l’animation sociale. En plus des techniques classiques, elle utilise la méthode du papier porcelaine, mélange de porcelaine et de cellulose, qui permet d’obtenir des pièces d’une extrême finesse. Elle exposait au Salon Habitat & vie d’Épinal.',
+//       "Devons-nous prouver que nous avons testé l'ensemble de l'application ou seulement la bibliothèque que nous avons convertie ?",
+//     ],
+//   ],
+//   [
+//     'Other',
+//     [
+//       'Après 25 ans dans le domaine de l’action culturelle, je me reconvertis dans le développement web.',
+//       'Téléchargez votre attestation de réussite en attendant que votre dossier passe devant le jury.',
+//     ],
+//   ],

@@ -1,0 +1,21 @@
+// Media queries pour TABLETTE avec map définie dans _variables.scss
+
+@mixin forTablet {
+  @media screen and (max-width: map-get($breakpoints, tablet)) {
+    @content;
+  }
+}
+
+// Media queries pour MOBILE avec map définie dans _variables.scss
+
+@mixin forMobile {
+  @media screen and (max-width: map-get($breakpoints, mobile)) {
+    @content;
+  }
+}
+
+@mixin forMobile2 {
+  @media screen and (max-width: map-get($breakpoints, mobile2)) {
+    @content;
+  }
+}

@@ -1,0 +1,43 @@
+@import './normalize';
+
+@import './variables';
+@import './mixins';
+
+@import '../components/collapse';
+// @import '../common/Banner/banner';
+
+@import '../components/header';
+@import '../components/navbar';
+
+// @import '../components/Footer/footer';
+// @import '../components/HomeCard/homeCard';
+// @import '../components/Slideshow/slideshow';
+// @import '../components/Tags/tags';
+// @import '../components/Rating/rating';
+
+@import '../pages/main';
+// @import '../pages/homeGallery';
+// @import '../pages/LodgingSheet/lodgingSheet';
+// @import '../pages/About/about';
+// @import '../pages/Error/error';
+
+/* Lien des polices google */
+// @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  color: black;
+  box-sizing: border-box;
+  // background-color: rgb(160, 160, 160);
+
+  .app {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    // padding: 0 5%;
+    width: $widthPage;
+    height: 100vh;
+    // background-color: rgb(184, 251, 251);
+  }
+}

@@ -1,0 +1,87 @@
+main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin: 0 auto 0;
+  width: 85%;
+
+  h2 {
+    margin: 0.83em auto 0em;
+  }
+
+  h3 {
+    margin: 1em 0 -0.3em;
+  }
+
+  p {
+    font-size: 1.2em;
+    line-height: 1.3em;
+  }
+
+  // .artists {
+  //   display: flex;
+  //   flex-direction: column;
+  //   // width: $widthPage;
+  //   max-width: 1280px;
+  //   margin: 0 auto;
+  //   box-sizing: border-box;
+  //   .Collapse {
+  //     width: 82.5%;
+  //     margin: 31px auto 0;
+  //     .CollapseHeader {
+  //       h3 {
+  //         margin: 0;
+  //         font: {
+  //           size: 24px;
+  //           weight: 500;
+  //         }
+  //       }
+  //     }
+  //     .CollapseParagrah {
+  //       font: {
+  //         size: 20px;
+  //         weight: 400;
+  //       }
+  //       p {
+  //         margin: 0;
+  //         padding: 0;
+  //       }
+  //     }
+  //   }
+  // }
+  // @include forMobile {
+  //   margin-top: 15px;
+  //   .about {
+  //     .Collapse {
+  //       min-width: 100%;
+  //       margin: 20px auto 0px;
+  //       .CollapseHeader {
+  //         h3 {
+  //           margin: 0;
+  //           font: {
+  //             size: 13px;
+  //             weight: 500;
+  //           }
+  //         }
+  //       }
+  //       .CollapseParagrah {
+  //         padding: 16px 11px 11px;
+  //         font: {
+  //           size: 12px;
+  //           weight: 400;
+  //         }
+  //         p {
+  //           margin: 0;
+  //           padding: 0;
+  //         }
+  //       }
+  //     }
+  //   }
+  // }
+}
+
+@include forMobile {
+  .bannerAbout {
+    border-radius: 25px;
+  }
+}

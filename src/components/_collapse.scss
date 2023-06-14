@@ -1,0 +1,58 @@
+.Collapse {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  .CollapseHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0 37px 0 18px;
+    background-color: $primary;
+    color: $fontColorLight;
+    width: 100%;
+    height: 47px;
+    border-radius: 5px;
+    cursor: pointer;
+    .chevronDown {
+      transform: rotate(180deg);
+    }
+    .chevronUp {
+      transform: rotate(0);
+    }
+  }
+  .CollapseParagrah {
+    margin: 0;
+    padding: 16px;
+    background-color: #ddd;
+    background-color: $backgroundColor;
+    border-radius: 0 0 5px 5px;    
+  }
+  @include forMobile {
+    width: 100%;
+    margin: 20px auto 0px;
+    .CollapseHeader {
+      padding: 0 10.76px 0 11.51px;
+      height: 30px;
+      border-radius: 5px;
+      h3 {
+        font-size: 13px;
+      }
+      .chevronDown {
+        transform: rotate(180deg) scale(0.6);
+      }
+      .chevronUp {
+        transform: rotate(0) scale(0.6);
+      }
+    }
+    .CollapseParagrah {
+      padding: 18px 18px 18px;
+      background-color: #ddd;
+      background-color: $backgroundColor;
+      border-radius: 0 0 5px 5px;
+      p {
+        font-size: 12px;
+      }
+    }
+  }
+}

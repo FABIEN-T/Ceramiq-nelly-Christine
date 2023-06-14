@@ -1,0 +1,8 @@
+// const text1-Json = '{"title": "Céramique",
+// "description": "Utilisant la céramique comme moyen d'expression nous créons manuellement des collections uniques et luxueuses pour la maison et l'art de la table, des objets décoratifs et utilitaires, des pièces d'architecture intérieures ou extérieures.\\nChaque pièce est caressée, formée, déformée, oubliée, retrouvée, émaillée, chauffée pour donner un objet unique porteur d'énergie et d'émotion.\\nNotre quotidien est une fusion de certitudes et d'erreurs, de précision technique, d'expérimentations constantes, d’accidents, de travail dur et de déceptions, de simplicité et de bonheur.\\nBonheur que nous aimerions vous transmettre à travers ces petits morceaux d'argiles."}'
+        
+//     {
+//         "title": "Fabrication",
+//         "description": "La porcelaine est préparée à l'atelier à partir de minéraux de carrière, un subtil mélange de kaolin, silice et feldspath.\\nLes autres argiles sont utilisées brutes ou en mélange.\\nLes différents objets sont mis en forme par modelage, tournage, estampage, calibrage...\\nTout est fait à la main.\\nAprès séchage, une première cuisson à 1000 °c permet de solidifier les pièces, pour l'émaillage.\\nTous les émaux sont élaborés par nos soins, matières premières minérales, quelques oxydes métalliques pour les couleurs et un peu d'eau...\\nUne cuisson à 1300°c sert de révélateur à toutes les étapes précédentes.\\n    Chaque pièce est unique."
+//     }
+// ]

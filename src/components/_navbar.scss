@@ -1,0 +1,34 @@
+.navBar {
+  display: flex;
+
+  font: {
+    size: 1.3em;
+    weight: 500;
+  }
+
+  .navBarLink {
+    color: $primary;
+    margin-left: 20px;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline 0.1rem;
+    }
+  }
+  .navBarLink.active {
+    text-decoration: underline 0.1rem;
+  }
+  @include forMobile {
+    font-size: 12px;
+    text-transform: uppercase;
+
+    .navBarLink {
+      margin-left: 10px;
+      &:hover {
+        text-decoration: underline 1px;
+      }
+    }
+    .navBarLink.active {
+      text-decoration: underline 1px;
+    }
+  }
+}
