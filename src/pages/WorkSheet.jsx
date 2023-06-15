@@ -32,10 +32,7 @@ export default function WorkSheet() {
       ) : (
         <main className="workSheet">
           {/* <Slideshow pictures={pictures} /> */}
-          <img
-            src="work-sheet/ns1/src/assets/nelly_serie_1/ns1_01.jpg"
-            alt="aaa"
-          />
+          <img src="src/assets/nelly_serie_1/ns1_01.jpg" alt="ns1_01" />
 
           <section className="workPresentation">
             <div className="workTitleTags">
