@@ -4,7 +4,7 @@
         "title": "nom-série1",
         "cover": "src/assets/nelly_serie_1/ns1Cover.jpg",
         "pictures": [
-            "${id}/src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_01.jpg",
             "src/assets/nelly_serie_1/ns1_04.jpg",
             "src/assets/nelly_serie_1/ns1_05.jpg",
             "src/assets/nelly_serie_1/ns1_06.jpg",
