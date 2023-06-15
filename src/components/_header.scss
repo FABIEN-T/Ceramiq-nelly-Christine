@@ -2,6 +2,7 @@
 
 .header {
   background-color: $primary;
+  padding: 40px 0;
   .contentHeader {
     display: flex;
     flex-direction: row;
@@ -10,7 +11,7 @@
     align-items: center;
     box-sizing: border-box;
     height: fit-content;
-    margin: 40px auto 40px;
+    margin: 0 auto;
     padding: 10px;
     width: $widthPage;
     max-width: 1280px;

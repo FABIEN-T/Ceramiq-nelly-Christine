@@ -3,16 +3,17 @@ import { useEffect } from 'react'
 import datasNelly from '../datas/datasNelly.json'
 // import Tags from '../../components/Tags'
 // import Rating from '../../components/Rating'
-// import Collapse from '../../common/Collapse'
-// import Slideshow from '../../components/Slideshow'
+import Collapse from '../components/Collapse'
+import Slideshow from '../components/Slideshow'
 
 export default function WorkSheet() {
   const { id } = useParams()
   const workSheetSelected = datasNelly.find((work) => work.id === id)
+  // console.log('workSheetSelected', workSheetSelected)
 
   const {
     title,
-    // pictures,
+    pictures,
     description,
     // host,
     // rating,
@@ -31,6 +32,10 @@ export default function WorkSheet() {
       ) : (
         <main className="workSheet">
           {/* <Slideshow pictures={pictures} /> */}
+          <img
+            src="work-sheet/ns1/src/assets/nelly_serie_1/ns1_01.jpg"
+            alt="aaa"
+          />
 
           <section className="workPresentation">
             <div className="workTitleTags">
@@ -42,18 +47,18 @@ export default function WorkSheet() {
             </div>
           </section>
 
-          {/* <section className="descriptionEquipement">
+          <section className="descriptionEquipement">
             <Collapse
               title={'Description'}
               content={description}
               type={'paragraph'}
             />
-            <Collapse
+            {/* <Collapse
               title={'Équipements'}
               content={equipments}
               type={'list'}
-            />
-          </section> */}
+            /> */}
+          </section>
         </main>
       )}
     </>

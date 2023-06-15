@@ -27,9 +27,6 @@ export default function Nelly() {
               jours.
             </p>
           </article>
-          {/* <div>
-            <img src="src/assets/nelly_serie_1/ns1Cover.jpg" />
-          </div> */}
           <div className="homeGallery">
             <ul>
               {datasNelly.map(({ id, title, cover }) => (

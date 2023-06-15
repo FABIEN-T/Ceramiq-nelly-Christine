@@ -1,0 +1,77 @@
+.Slideshow {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 415px;
+  border-radius: 25px;
+  overflow: hidden;
+  p {
+    position: absolute;
+    z-index: 20;
+    margin: 0;
+    padding: 0;
+    bottom: 25px;
+    color: $fontColorLight;
+    font: {
+      size: 18px;
+      weight: 500;
+    }
+  }
+  .arrows {
+    .arrowNext {
+      position: absolute;
+      height: 79px;
+      width: 47px;
+      top: 40.5%;
+      right: 23px;
+      z-index: 10;
+      cursor: pointer;
+      user-select: none;
+    }
+    .arrowPrevious {
+      position: absolute;
+      height: 79px;
+      width: 47px;
+      top: 40.5%;
+      left: 23px;
+      z-index: 10;
+      cursor: pointer;
+      user-select: none;
+    }
+  }
+  .slide {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+
+  @include forMobile {
+    height: 255px;
+    border-radius: 10px;
+    p {
+      font-size: 0;
+    }
+    .arrows {
+      .arrowNext {
+        width: 20px;
+        height: 12px;
+        top: 48%;
+        right: 6px;
+      }
+      .arrowPrevious {
+        width: 20px;
+        height: 12px;
+        top: 48%;
+        left: 6px;
+      }
+    }
+  }
+}
