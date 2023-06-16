@@ -4,15 +4,18 @@ $breakpoints: (
   tablet: 1024px,
   mobile: 600px,
   // mobile2: réagencement du header, logo et navbar en colonne et centrés
-  mobile2: 338px
+  mobile2: 400px
 );
 
 // Largeur des pages par rapport au footer
 $widthPage: 85%;
 
 // Couleur principale
-$primary: #06386c;
-$secondary: #06386c;
+$primary: #041e39;
+$secondary: #041e39;
+// $secondary: #06386c;
+// $primary: black;
+// $secondary: black;
 
 // Couleur de la police claire
 $fontColorLight: white;

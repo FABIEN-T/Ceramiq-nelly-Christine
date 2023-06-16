@@ -12,7 +12,8 @@ export default function Header() {
           className="headerLogo"
         />
       </h1> */}
-        <h1>Christine, Nelly, céramistes</h1>
+        <h1>POTERIE DU HAUT DES TAPPES</h1>
+        {/* <h1>Poterie du Haut des Tappes</h1> */}
         <Navbar />
       </div>
     </header>

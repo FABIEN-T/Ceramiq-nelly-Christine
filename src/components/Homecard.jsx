@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 
 function HomeCard({ id, title, cover }) {
-  console.log('homecard', cover)
+  // console.log('homecard', id, title, cover)
   return (
     <li key={id} className="card">
       <Link key={`${id}`} to={`/work-sheet/${id}`}>

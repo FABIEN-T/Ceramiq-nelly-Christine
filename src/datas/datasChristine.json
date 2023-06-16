@@ -1,0 +1,197 @@
+[
+    {
+        "id": "cs1",
+        "title": "nom-série1_christine",
+        "cover": "src/assets/christine_cover/cs001Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs001.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs2",
+        "title": "nom-série2_christine",
+        "cover": "src/assets/christine_cover/cs002Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs002.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs3",
+        "title": "nom-série3_christine",
+        "cover": "src/assets/christine_cover/cs003Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs003.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs4",
+        "title": "nom-série4_christine",
+        "cover": "src/assets/christine_cover/cs004Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs004.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs5",
+        "title": "nom-série5_christine",
+        "cover": "src/assets/christine_cover/cs005Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs005.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs6",
+        "title": "nom-série6_christine",
+        "cover": "src/assets/christine_cover/cs006Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs006.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs7",
+        "title": "nom-série7_christine",
+        "cover": "src/assets/christine_cover/cs007Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs007.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs8",
+        "title": "nom-série8_christine",
+        "cover": "src/assets/christine_cover/cs008Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs008.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs9",
+        "title": "nom-série9_christine",
+        "cover": "src/assets/christine_cover/cs009Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs009.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs10",
+        "title": "nom-série10_christine",
+        "cover": "src/assets/christine_cover/cs010Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs010.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs11",
+        "title": "nom-série11_christine",
+        "cover": "src/assets/christine_cover/cs011Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs011.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs12",
+        "title": "nom-série12_christine",
+        "cover": "src/assets/christine_cover/cs012Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs012.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs13",
+        "title": "nom-série13_christine",
+        "cover": "src/assets/christine_cover/cs013Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs013.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs14",
+        "title": "nom-série14_christine",
+        "cover": "src/assets/christine_cover/cs014Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs014.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    },
+    {
+        "id": "cs15",
+        "title": "nom-série15_christine",
+        "cover": "src/assets/christine_cover/cs015Cover.jpg",
+        "pictures": [
+            "src/assets/christine_serie_1/cs015.jpg"
+        ],
+        "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
+        "tags": [
+            "Céramique",
+            "Argile"
+        ]
+    }
+]

@@ -1,12 +1,16 @@
 .navBar {
   display: flex;
+  justify-content: space-between;
+  width: 50%;
+  // background-color: aquamarine;
   font: {
     size: 1.3em;
     weight: 500;
   }
 
   .navBarLink {
-    margin-left: 20px;
+    // background-color: rgb(205, 255, 238);
+    justify-content: flex-end;
     color: $secondary;
     text-decoration: none;
     &:hover {
@@ -16,18 +20,30 @@
   .navBarLink.active {
     text-decoration: underline 0.1rem;
   }
+  @include forTablet {
+    width: 90%;
+  }
+
   @include forMobile {
     font-size: 12px;
     text-transform: uppercase;
 
     .navBarLink {
-      margin-left: 10px;
+      // margin-left: 10px;
       &:hover {
         text-decoration: underline 1px;
       }
     }
     .navBarLink.active {
       text-decoration: underline 1px;
+    }
+  }
+  @include forMobile2 {
+    flex-direction: column;
+    font-size: 12px;
+    text-transform: uppercase;
+    .navBarLink {
+      margin: 2px auto;
     }
   }
 }

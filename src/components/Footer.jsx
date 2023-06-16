@@ -7,7 +7,9 @@ export default function Footer() {
         <img src={LogoWhite} alt="Logo de l'entreprise Kasa" />
       </h3> */}
 
-      <h3 className="footerCopyrights">© 2023 C&N. All rights reserved</h3>
+      <h3 className="footerCopyrights">
+        © 2023 POTERIE DU HAUT DES TAPPES All rights reserved
+      </h3>
     </footer>
   )
 }

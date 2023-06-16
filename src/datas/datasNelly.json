@@ -1,8 +1,8 @@
 [
     {
         "id": "ns1",
-        "title": "nom-série1",
-        "cover": "src/assets/nelly_serie_1/ns1Cover.jpg",
+        "title": "Nom de la série 1",
+        "cover": "src/assets/nelly_cover/ns1Cover.jpg",
         "pictures": [
             "src/assets/nelly_serie_1/ns1_01.jpg",
             "src/assets/nelly_serie_1/ns1_04.jpg",
@@ -25,8 +25,22 @@
     },
     {
         "id": "ns2",
-        "title": "nom-série2",
-        "cover": "src/assets/nelly_serie_2/ns2Cover.jpg",
+        "title": "Nom de la série 2",
+        "cover": "src/assets/nelly_cover/ns2Cover.jpg",
+        "pictures": [
+            "src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_04.jpg",
+            "src/assets/nelly_serie_1/ns1_05.jpg",
+            "src/assets/nelly_serie_1/ns1_06.jpg",
+            "src/assets/nelly_serie_1/ns1_08.jpg",
+            "src/assets/nelly_serie_1/ns1_09.jpg",
+            "src/assets/nelly_serie_1/ns1_11.jpg",
+            "src/assets/nelly_serie_1/ns1_12.jpg",
+            "src/assets/nelly_serie_1/ns1_13.jpg",
+            "src/assets/nelly_serie_1/ns1_15.jpg",
+            "src/assets/nelly_serie_1/ns1_16.jpg",
+            "src/assets/nelly_serie_1/ns1_19.jpg"
+        ],
         "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
         "tags": [
             "Céramique",
@@ -35,8 +49,22 @@
     },
     {
         "id": "ns3",
-        "title": "nom-série3",
-        "cover": "src/assets/nelly_serie_3/ns3Cover.jpg",
+        "title": "Nom de la série 3",
+        "cover": "src/assets/nelly_cover/ns3Cover.jpg",
+        "pictures": [
+            "src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_04.jpg",
+            "src/assets/nelly_serie_1/ns1_05.jpg",
+            "src/assets/nelly_serie_1/ns1_06.jpg",
+            "src/assets/nelly_serie_1/ns1_08.jpg",
+            "src/assets/nelly_serie_1/ns1_09.jpg",
+            "src/assets/nelly_serie_1/ns1_11.jpg",
+            "src/assets/nelly_serie_1/ns1_12.jpg",
+            "src/assets/nelly_serie_1/ns1_13.jpg",
+            "src/assets/nelly_serie_1/ns1_15.jpg",
+            "src/assets/nelly_serie_1/ns1_16.jpg",
+            "src/assets/nelly_serie_1/ns1_19.jpg"
+        ],
         "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
         "tags": [
             "Céramique",
@@ -45,8 +73,22 @@
     },
     {
         "id": "ns4",
-        "title": "nom-série4",
-        "cover": "src/assets/nelly_serie_4/ns4Cover.jpg",
+        "title": "Nom de la série 4",
+        "cover": "src/assets/nelly_cover/ns4Cover.jpg",
+        "pictures": [
+            "src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_04.jpg",
+            "src/assets/nelly_serie_1/ns1_05.jpg",
+            "src/assets/nelly_serie_1/ns1_06.jpg",
+            "src/assets/nelly_serie_1/ns1_08.jpg",
+            "src/assets/nelly_serie_1/ns1_09.jpg",
+            "src/assets/nelly_serie_1/ns1_11.jpg",
+            "src/assets/nelly_serie_1/ns1_12.jpg",
+            "src/assets/nelly_serie_1/ns1_13.jpg",
+            "src/assets/nelly_serie_1/ns1_15.jpg",
+            "src/assets/nelly_serie_1/ns1_16.jpg",
+            "src/assets/nelly_serie_1/ns1_19.jpg"
+        ],
         "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
         "tags": [
             "Céramique",
@@ -55,8 +97,22 @@
     },
     {
         "id": "ns5",
-        "title": "nom-série5",
-        "cover": "src/assets/nelly_serie_5/ns5Cover.jpg",
+        "title": "Nom de la série 5",
+        "cover": "src/assets/nelly_cover/ns5Cover.jpg",
+        "pictures": [
+            "src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_04.jpg",
+            "src/assets/nelly_serie_1/ns1_05.jpg",
+            "src/assets/nelly_serie_1/ns1_06.jpg",
+            "src/assets/nelly_serie_1/ns1_08.jpg",
+            "src/assets/nelly_serie_1/ns1_09.jpg",
+            "src/assets/nelly_serie_1/ns1_11.jpg",
+            "src/assets/nelly_serie_1/ns1_12.jpg",
+            "src/assets/nelly_serie_1/ns1_13.jpg",
+            "src/assets/nelly_serie_1/ns1_15.jpg",
+            "src/assets/nelly_serie_1/ns1_16.jpg",
+            "src/assets/nelly_serie_1/ns1_19.jpg"
+        ],
         "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
         "tags": [
             "Céramique",
@@ -65,8 +121,22 @@
     },
     {
         "id": "ns6",
-        "title": "nom-série6",
-        "cover": "src/assets/nelly_serie_6/ns6Cover.jpg",
+        "title": "Nom de la série 6",
+        "cover": "src/assets/nelly_cover/ns6Cover.jpg",
+        "pictures": [
+            "src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_04.jpg",
+            "src/assets/nelly_serie_1/ns1_05.jpg",
+            "src/assets/nelly_serie_1/ns1_06.jpg",
+            "src/assets/nelly_serie_1/ns1_08.jpg",
+            "src/assets/nelly_serie_1/ns1_09.jpg",
+            "src/assets/nelly_serie_1/ns1_11.jpg",
+            "src/assets/nelly_serie_1/ns1_12.jpg",
+            "src/assets/nelly_serie_1/ns1_13.jpg",
+            "src/assets/nelly_serie_1/ns1_15.jpg",
+            "src/assets/nelly_serie_1/ns1_16.jpg",
+            "src/assets/nelly_serie_1/ns1_19.jpg"
+        ],
         "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
         "tags": [
             "Céramique",
@@ -75,8 +145,22 @@
     },
     {
         "id": "ns7",
-        "title": "nom-série7",
-        "cover": "src/assets/nelly_serie_7/ns7Cover.jpg",
+        "title": "Nom de la série 7",
+        "cover": "src/assets/nelly_cover/ns7Cover.jpg",
+        "pictures": [
+            "src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_04.jpg",
+            "src/assets/nelly_serie_1/ns1_05.jpg",
+            "src/assets/nelly_serie_1/ns1_06.jpg",
+            "src/assets/nelly_serie_1/ns1_08.jpg",
+            "src/assets/nelly_serie_1/ns1_09.jpg",
+            "src/assets/nelly_serie_1/ns1_11.jpg",
+            "src/assets/nelly_serie_1/ns1_12.jpg",
+            "src/assets/nelly_serie_1/ns1_13.jpg",
+            "src/assets/nelly_serie_1/ns1_15.jpg",
+            "src/assets/nelly_serie_1/ns1_16.jpg",
+            "src/assets/nelly_serie_1/ns1_19.jpg"
+        ],
         "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
         "tags": [
             "Céramique",
@@ -85,8 +169,13 @@
     },
     {
         "id": "ns8",
-        "title": "nom-série8",
-        "cover": "src/assets/nelly_serie_8/ns8Cover.jpg",
+        "title": "Nom de la série 8",
+        "cover": "src/assets/nelly_cover/ns8Cover.jpg",
+        "pictures": [
+            "src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_04.jpg",
+            "src/assets/nelly_serie_1/ns1_05.jpg"
+        ],
         "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
         "tags": [
             "Céramique",
@@ -95,8 +184,22 @@
     },
     {
         "id": "ns9",
-        "title": "nom-série9",
-        "cover": "src/assets/nelly_serie_9/ns9Cover.jpg",
+        "title": "Nom de la série 9",
+        "cover": "src/assets/nelly_cover/ns9Cover.jpg",
+        "pictures": [
+            "src/assets/nelly_serie_1/ns1_01.jpg",
+            "src/assets/nelly_serie_1/ns1_04.jpg",
+            "src/assets/nelly_serie_1/ns1_05.jpg",
+            "src/assets/nelly_serie_1/ns1_06.jpg",
+            "src/assets/nelly_serie_1/ns1_08.jpg",
+            "src/assets/nelly_serie_1/ns1_09.jpg",
+            "src/assets/nelly_serie_1/ns1_11.jpg",
+            "src/assets/nelly_serie_1/ns1_12.jpg",
+            "src/assets/nelly_serie_1/ns1_13.jpg",
+            "src/assets/nelly_serie_1/ns1_15.jpg",
+            "src/assets/nelly_serie_1/ns1_16.jpg",
+            "src/assets/nelly_serie_1/ns1_19.jpg"
+        ],
         "description": "description de la série,  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, consequatur! Omnis debitis praesentium, excepturi eveniet aperiam impedit quam iure assumenda.",
         "tags": [
             "Céramique",

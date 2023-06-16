@@ -5,9 +5,9 @@
   padding: 40px 0;
   .contentHeader {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
-    justify-content: space-between;
+    // justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
     height: fit-content;
@@ -20,24 +20,25 @@
     color: $secondary;
     background-color: white;
     h1 {
-      margin: 0;
+      margin: 0 auto 10px;
       padding: 0;
-      .headerLogo {
-        height: 68px;
-      }
+      font-size: 2.2em;
+      // .headerLogo {
+      //   height: 68px;
+      // }
     }
 
     @include forTablet {
       flex-direction: column;
       margin: 20px auto 0;
-      h1 .headerLogo {
-        height: 47px;
+      h1 {
+        font-size: 1.4em;
       }
     }
 
     @include forMobile2 {
-      h1 .headerLogo {
-        margin-bottom: 8px;
+      h1 {
+        font-size: 1em;
       }
     }
   }

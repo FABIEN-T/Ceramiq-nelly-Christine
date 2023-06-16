@@ -1,6 +1,7 @@
 import Header from '../components/Header'
 import Footer from '../components/Footer'
-// import Artist from '../0_other/Artist'
+import HomeCard from '../components/Homecard'
+import datasChristine from '../datas/datasChristine.json'
 
 export default function Christine() {
   return (
@@ -8,6 +9,8 @@ export default function Christine() {
       <Header />
       <main>
         <h2>Christine Humann</h2>
+        {/* <img src="src/assets/christine_cover/cs003Cover.jpg" alt="aaa" /> */}
+
         <section>
           <article>
             <h3>1- Fabrication de l’objet :</h3>
@@ -17,6 +20,13 @@ export default function Christine() {
               réalisées par tournage, estampage ou modelage puis mises à sécher.
             </p>
           </article>
+          <div className="homeGallery">
+            <ul>
+              {datasChristine.map(({ id, title, cover }) => (
+                <HomeCard key={id} id={id} title={title} cover={cover} />
+              ))}
+            </ul>
+          </div>
           <article>
             <h3>2 - Cuisson :</h3>
             <p>Après séchage, première cuisson à 1000°C</p>

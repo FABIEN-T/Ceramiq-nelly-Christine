@@ -5,7 +5,7 @@ import arrowPrevious from '../assets/arrowPrevious.svg'
 function Slideshow({ pictures }) {
   const [current, setCurrent] = useState(0)
   const length = pictures.length
-  console.log(pictures)
+  // console.log(pictures)
   const prevSlide = () => {
     setCurrent(current === 0 ? length - 1 : current - 1)
   }
@@ -38,21 +38,25 @@ function Slideshow({ pictures }) {
         </div>
       ) : null}
 
-      {pictures.map((picture, index) => {
-        console.log('picture : ', picture)
-        return (
-          <div className="slide" key={index}>
-            {index === current && (
-              <img
-                key={`${picture}-${index}`}
-                src={picture}
-                alt="photos de l'appartement"
-                className="image"
-              />
-            )}
-          </div>
-        )
-      })}
+      {/* {pictures && pictures.map((picture) => <img src={`../${picture}`} />)} */}
+
+      {pictures &&
+        pictures.map((picture, index) => {
+          // console.log('picture : ', picture)
+          return (
+            <div className="slide" key={index}>
+              {index === current && (
+                <img
+                  key={`${picture}-${index}`}
+                  src={`../${picture}`}
+                  // src={picture}
+                  alt="photos série 1"
+                  className="image"
+                />
+              )}
+            </div>
+          )
+        })}
     </section>
   )
 }
