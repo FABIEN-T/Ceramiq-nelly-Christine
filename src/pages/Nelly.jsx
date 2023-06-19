@@ -3,6 +3,8 @@ import Footer from '../components/Footer'
 import HomeCard from '../components/Homecard'
 import datasNelly from '../datas/datasNelly.json'
 
+const myCover = 'assets/nelly_cover/ns1Cover.jpg'
+
 export default function Nelly() {
   return (
     <>
@@ -27,6 +29,7 @@ export default function Nelly() {
               jours.
             </p>
           </article>
+          {/* <img src={myCover} alt="exemple" /> */}
           <div className="homeGallery">
             <ul>
               {datasNelly.map(({ id, title, cover }) => (

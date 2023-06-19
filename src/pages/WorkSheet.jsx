@@ -17,7 +17,7 @@ export default function WorkSheet() {
   console.log('datas', datas)
   const workSheetSelected = datas.find((work) => work.id === id)
   // console.log('workSheetSelected', workSheetSelected)
-  const myCover = 'src/assets/nelly_serie_1/ns1Cover.jpg'
+  const myCover = 'assets/nelly_cover/ns1Cover.jpg'
   const {
     title,
     pictures,
@@ -41,8 +41,6 @@ export default function WorkSheet() {
           <Header />
           <main className="workSheet">
             <Slideshow pictures={pictures} />
-            {/* <img src="src/assets/nelly_serie_1/ns1_01.jpg" alt="ns1_01" /> */}
-            {/* <img src={`../${myCover}`} alt="exemple" /> */}
             <section className="workPresentation">
               <div className="workTitleTags">
                 <article className="workTitleLocation">
