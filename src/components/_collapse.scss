@@ -26,7 +26,7 @@
     padding: 16px;
     background-color: #ddd;
     background-color: $backgroundColor;
-    border-radius: 0 0 5px 5px;    
+    border-radius: 0 0 5px 5px;
   }
   @include forMobile {
     width: 100%;
